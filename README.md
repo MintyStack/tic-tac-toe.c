@@ -21,6 +21,7 @@ gcc tic_tac_toe.c -o tic_tac_toe
 
 ---
 Run:
+```bash
 ./tic_tac_toe
 
 📸 Sample Gameplay
